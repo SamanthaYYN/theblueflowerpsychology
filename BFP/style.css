@@ -1,0 +1,24 @@
+.big-text {
+    font-size: 22px;
+  }
+
+/* style.css */
+
+/* Get Started Button */
+.cta {
+    background: #4A90E2;  /* new color */
+    padding: 8px 12px;
+    border-radius: 8px;
+    color: #fff;           /* white text for contrast */
+    font-weight: 700;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.cta:hover {
+    background: #357ABD;   /* slightly darker on hover */
+}
+
+    header {
+      text-align: center;
+    }
